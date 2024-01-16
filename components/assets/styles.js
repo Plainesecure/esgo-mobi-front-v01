@@ -18,7 +18,10 @@ const styles = StyleSheet.create({
       color: '#666666', // Oletetaan keskiharmaa teksti
     },
     button: {
-        flex:2,
+        backgroundColor: '#007AFF',
+        padding: 10,
+        borderRadius: 5,
+        margin: 10,
     }
     // Lisää tyylejä elementeille kuten painikkeille, laatikoille jne.
     // https://github.com/vhpoet/react-native-styling-cheat-sheet
