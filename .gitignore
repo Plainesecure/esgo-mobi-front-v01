@@ -3,7 +3,9 @@
 # dependencies
 node_modules/
 
+#src depencies
 build.gradle
+.keystore
 
 # Expo
 .expo/
