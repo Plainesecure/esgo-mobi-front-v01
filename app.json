@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "esgo-mobi-front-v01",
+    "slug": "esgo-mobi-front-v01",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
