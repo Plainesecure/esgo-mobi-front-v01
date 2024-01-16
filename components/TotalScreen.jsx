@@ -12,7 +12,9 @@ const TotalScreen = () => {
       <Text style={styles.header}>Päivä 96: Hiilijalanjälkesi</Text>
       <Text style={styles.subHeader}>Hyvä!</Text>
       <Text style={styles.content}>
-        Kerättyjä tietoja: 114
+        Kerättyjä tietoja: 114 
+        </Text>
+        <Text style={styles.content}>
         {/* Lorem ipsum can be replaced with actual content */}
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
       </Text>
